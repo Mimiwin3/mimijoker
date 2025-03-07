@@ -1,0 +1,9 @@
+{
+    "JokerEnable": false,
+    "JokerLang": ["Russian"],
+    "JokerTime": ["Yekaterinburg"],
+    "JokerLink": 
+    [ 
+          { "Lang":"Russian", "Links": [""]}
+    ]
+ }
