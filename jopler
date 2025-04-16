@@ -1,9 +1,9 @@
 {
-    "JokerEnable": false,
-    "JokerLang": ["Russian"],
-    "JokerTime": ["Yekaterinburg"],
+    "JokerEnable": true,
+    "JokerLang": ["Spanish"],
+    "JokerTime": ["Buenos_Aires", "Argentina"],
     "JokerLink": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://1wdstt.com/casino/list?open=register&p=mapv"]}
     ]
  }
